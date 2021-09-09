@@ -1,0 +1,11 @@
+{
+  "name": "fastify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.21.0",
+    "fastify-plugin": "^3.0.0",
+    "fastify-swagger": "^4.11.0"
+  }
+}
